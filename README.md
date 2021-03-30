@@ -7,7 +7,7 @@ Hello, I'm Maciej Jaroszewski 👋
 - 👯 I’m Looking to Collaborate on Creating Trading Strategy using TA Library 
 - 🤔 I’m Looking for Help With Professional Portfolio Website
 - 💬 Ask Me About Python and Flask Fundamentals
-- 📫 How To Reach Me: [Linkedin](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/)
-- 😄 Pronouns: Muttley from Catch the Pigeon
+- 📫 How To Reach Me: [Linkedin](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/), [Udemy](https://www.udemy.com/user/maciej-jaroszewski-3/)
+- 😄 Pronouns: Muttley from 'Catch the Pigeon'
 - ⚡ Fun Fact: I Have Stopped Smoking to Stay Focused on Programming 
 -->
