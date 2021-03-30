@@ -10,4 +10,6 @@ Hello, I'm Maciej Jaroszewski 👋
 - 📫 How to Reach Me: [Linkedin](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/), [Udemy](https://www.udemy.com/user/maciej-jaroszewski-3/)
 - 😄 Pronouns: Muttley from 'Catch the Pigeon'
 - ⚡ Fun Fact: I Have Stopped Smoking to Stay Focused on Programming 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjaroszewski1979)](https://github.com/anuraghazra/github-readme-stats)
+
 
