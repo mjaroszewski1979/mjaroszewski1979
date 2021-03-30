@@ -11,6 +11,6 @@ Hello, I'm Maciej Jaroszewski 👋
 - 😄 Pronouns: Muttley from 'Catch the Pigeon'
 - ⚡ Fun Fact: I Have Stopped Smoking to Stay Focused on Programming 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaroszewski1979&theme=nordk&show_icons=true)
 
 
