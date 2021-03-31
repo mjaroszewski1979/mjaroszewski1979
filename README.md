@@ -14,7 +14,7 @@ I am hard working professional with passion for new technologies and financial m
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/), [Udemy](https://www.udemy.com/user/maciej-jaroszewski-3/) 
   - 😄 Pronouns: Muttley from 'Catch the Pigeon' 
   - ⚡ Fun fact: I Have Stopped Smoking to Stay Focused on Programming  
-<div style="text-align:center">
+
   ### My Work
 
   ![caption](https://github.com/mjaroszewski1979/market_bias/blob/main/marketbias.gif) 
@@ -51,5 +51,5 @@ I am hard working professional with passion for new technologies and financial m
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=nord)  
 
   ![Profile views](https://gpvc.arturio.dev/mjaroszewski1979)  
-</div>
+
 
