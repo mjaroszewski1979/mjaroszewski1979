@@ -19,6 +19,11 @@ I am hard working professional with passion for new technologies and financial m
 
 Live Preview: [Pythonanywhere](http://mjaroszewski.pythonanywhere.com/), Code: [Github](https://github.com/mjaroszewski1979/market_bias)
 
+![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
+
+Live Preview: [Heroku](https://udemy-flask-smtplib.herokuapp.com/), Code: [Github](https://github.com/mjaroszewski1979/market_bias)
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mjaroszewski1979)  
