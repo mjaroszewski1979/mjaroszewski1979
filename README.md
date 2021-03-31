@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Maciej Jaroszewski
 #### Self - Taught Pythonista
-![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/code%20with.png)
+![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner.png)
 I am hard working professional with passion for new technologies and financial markets. I like to challenge myself on a regular basis to set goals in life and then strive to accomplish them.
 
 Skills: PYTHON / FLASK / PANDAS / HTML / CSS
