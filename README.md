@@ -17,23 +17,26 @@ I am hard working professional with passion for new technologies and financial m
 
 ![caption](https://github.com/mjaroszewski1979/market_bias/blob/main/marketbias.gif) 
 
-Live Preview: [Pythonanywhere](http://mjaroszewski.pythonanywhere.com/), Code: [Github](https://github.com/mjaroszewski1979/market_bias)
-#### Technologies: PYTHON/FLASK/PANDAS/MATPLOTLIB/PLOTLY/SMTPLIB/TA/HTML/CSS
 Live | Code | Technologies
 ---- | ---- | ------------
-[Pythonanywhere](http://mjaroszewski.pythonanywhere.com/) | [Github](https://github.com/mjaroszewski1979/market_bias) |  PYTHON/FLASK/PANDAS/MATPLOTLIB/PLOTLY/SMTPLIB/TA/HTML/CSS
+[Pythonanywhere](http://mjaroszewski.pythonanywhere.com/) | [Github](https://github.com/mjaroszewski1979/market_bias) | PYTHON/FLASK/PANDAS/MATPLOTLIB/PLOTLY/TA/HTML/CSS
 
 ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
 
 Live Preview: [Heroku](https://udemy-flask-smtplib.herokuapp.com/), Code: [Github](https://github.com/mjaroszewski1979/johnsmith)
 #### Technologies: PYTHON/FLASK/SMTPLIB/HTML/CSS
-------------------------------------------------
+Live | Code | Technologies
+---- | ---- | ------------
+[Heroku](https://udemy-flask-smtplib.herokuapp.com/) | [Github](https://github.com/mjaroszewski1979/johnsmith) | PYTHON/FLASK/HTML/CSS
 
 ![caption](https://github.com/mjaroszewski1979/mjportfolio/blob/main/mjportfolio.gif)
 
 Live Preview: [Netlify](https://mjaroszewski.icu/), Code: [Github](https://github.com/mjaroszewski1979/mjportfolio)
 #### Technologies: HTML/CSS/JS
-------------------------------
+Live | Code | Technologies
+---- | ---- | ------------
+[Netlify](https://mjaroszewski.icu/) | [Github](https://github.com/mjaroszewski1979/mjportfolio) | HTML/CSS/JS
+
 
 
 
