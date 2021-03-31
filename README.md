@@ -1,11 +1,10 @@
-<p align="center">
 
 
-  ### Hi there 👋, my name is Maciej Jaroszewski
-  #### Self - Taught Pythonista
-  ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner.png)
+### Hi there 👋, my name is Maciej Jaroszewski
+#### Self - Taught Pythonista
+![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner.png)
 
-  I am hard working professional with passion for new technologies and financial markets. 
+I am hard working professional with passion for new technologies and financial markets. 
 
 
   - 🔭 I’m currently working on  User Accounts & Authentication in Flask 
@@ -23,9 +22,10 @@
   Live | Code | Technologies
   ---- | ---- | ------------
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pyan.png">](http://mjaroszewski.pythonanywhere.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/market_bias) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
-
+<p align="center">
   ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
-
+</p>
+  
   Live | Code | Technologies
   ---- | ---- | ------------
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/heroku.png">](https://udemy-flask-smtplib.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/johnsmith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
@@ -51,4 +51,4 @@
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=nord)  
 
   ![Profile views](https://gpvc.arturio.dev/mjaroszewski1979)  
-</p>
+
