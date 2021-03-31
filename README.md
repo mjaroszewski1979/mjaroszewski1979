@@ -21,7 +21,7 @@ Live Preview: [Pythonanywhere](http://mjaroszewski.pythonanywhere.com/), Code: [
 
 ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
 
-Live Preview: [Heroku](https://udemy-flask-smtplib.herokuapp.com/), Code: [Github](https://github.com/mjaroszewski1979/market_bias)
+Live Preview: [Heroku](https://udemy-flask-smtplib.herokuapp.com/), Code: [Github](https://github.com/mjaroszewski1979/johnsmith)
 
 
 
