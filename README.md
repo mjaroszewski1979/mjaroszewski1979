@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Maciej Jaroszewski
 #### Self - Taught Pythonista
-![I am self taught Pythonista](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/code%20with.png)
+[<img src='https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/code%20with.png' alt='banner' height='80'>]
 
 I am hard working professional with passion for new technologies and financial markets. I like to challenge myself on a regular basis to set goals in life and then strive to accomplish them.
 
