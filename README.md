@@ -15,7 +15,8 @@ I am hard working professional with passion for new technologies and financial m
 
 ### My Work
 
-![caption](https://github.com/mjaroszewski1979/market_bias/blob/main/marketbias.gif) Live Preview: [Pythonanywhere](http://mjaroszewski.pythonanywhere.com/), Code: [Github](https://github.com/mjaroszewski1979/market_bias) Technologies: PYTHON/FLASK/PANDAS/MATPLOTLIB/PLOTLY/SMTPLIB/TA/HTML/CSS
+![caption](https://github.com/mjaroszewski1979/market_bias/blob/main/marketbias.gif) 
+Live Preview: [Pythonanywhere](http://mjaroszewski.pythonanywhere.com/), Code: [Github](https://github.com/mjaroszewski1979/market_bias), Technologies: PYTHON/FLASK/PANDAS/MATPLOTLIB/PLOTLY/SMTPLIB/TA/HTML/CSS
 ----------------------------------------------------------------------------
 
 ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
