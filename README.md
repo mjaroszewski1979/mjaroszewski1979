@@ -22,9 +22,9 @@ I am hard working professional with passion for new technologies and financial m
   Live | Code | Technologies
   ---- | ---- | ------------
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pyan.png">](http://mjaroszewski.pythonanywhere.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/market_bias) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
-<p align="center">
+
   ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
-</p>
+
   
   Live | Code | Technologies
   ---- | ---- | ------------
