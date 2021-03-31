@@ -19,19 +19,19 @@ I am hard working professional with passion for new technologies and financial m
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[PYTHONANYWHERE](http://mjaroszewski.pythonanywhere.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/market_bias) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pyan.png">](http://mjaroszewski.pythonanywhere.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/market_bias) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
 
 ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[HEROKU](https://udemy-flask-smtplib.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/johnsmith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/heroku.png">](https://udemy-flask-smtplib.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/johnsmith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
 
 ![caption](https://github.com/mjaroszewski1979/mjportfolio/blob/main/mjportfolio.gif)
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[NETLIFY](https://mjaroszewski.icu/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/mjportfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js.png">
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify.png">](https://mjaroszewski.icu/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/mjportfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js.png">
 
 
 
