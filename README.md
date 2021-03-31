@@ -13,6 +13,9 @@ I am hard working professional with passion for new technologies and financial m
 - 😄 Pronouns: Muttley from 'Catch the Pigeon' 
 - ⚡ Fun fact: I Have Stopped Smoking to Stay Focused on Programming  
 
+### My Work
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mjaroszewski1979)  
 
