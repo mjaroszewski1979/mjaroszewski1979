@@ -1,5 +1,5 @@
 
-
+<div style="text-align:center">
 ### Hi there 👋, my name is Maciej Jaroszewski
 #### Self - Taught Pythonista
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner.png)
@@ -51,4 +51,5 @@ I am hard working professional with passion for new technologies and financial m
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=nord)  
 
   ![Profile views](https://gpvc.arturio.dev/mjaroszewski1979)  
+  </div>
 
