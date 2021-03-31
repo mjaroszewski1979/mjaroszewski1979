@@ -25,19 +25,15 @@ Live | Code | Technologies
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[HEROKU](https://udemy-flask-smtplib.herokuapp.com/) | [GITHUB](https://github.com/mjaroszewski1979/johnsmith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
+[HEROKU](https://udemy-flask-smtplib.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/johnsmith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
 
 ![caption](https://github.com/mjaroszewski1979/mjportfolio/blob/main/mjportfolio.gif)
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[NETLIFY](https://mjaroszewski.icu/) | [GITHUB](https://github.com/mjaroszewski1979/mjportfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js.png">
+[NETLIFY](https://mjaroszewski.icu/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github.png">](https://github.com/mjaroszewski1979/mjportfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js.png">
 
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mjaroszewski1979)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mjaroszewski1979&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
