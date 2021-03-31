@@ -19,19 +19,19 @@ I am hard working professional with passion for new technologies and financial m
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[Pythonanywhere](http://mjaroszewski.pythonanywhere.com/) | [Github](https://github.com/mjaroszewski1979/market_bias) |  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
+[PYTHONANYWHERE](http://mjaroszewski.pythonanywhere.com/) | [GITHUB](https://github.com/mjaroszewski1979/market_bias) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
 
 ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/johnsmith.gif)
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[Heroku](https://udemy-flask-smtplib.herokuapp.com/) | [Github](https://github.com/mjaroszewski1979/johnsmith) | PYTHON/FLASK/HTML/CSS
+[HEROKU](https://udemy-flask-smtplib.herokuapp.com/) | [GITHUB](https://github.com/mjaroszewski1979/johnsmith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> 
 
 ![caption](https://github.com/mjaroszewski1979/mjportfolio/blob/main/mjportfolio.gif)
 
 Live | Code | Technologies
 ---- | ---- | ------------
-[Netlify](https://mjaroszewski.icu/) | [Github](https://github.com/mjaroszewski1979/mjportfolio) | HTML/CSS/JS
+[NETLIFY](https://mjaroszewski.icu/) | [GITHUB](https://github.com/mjaroszewski1979/mjportfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js.png">
 
 
 
