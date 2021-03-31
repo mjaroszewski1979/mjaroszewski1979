@@ -29,4 +29,4 @@ Skills: PYTHON / FLASK / PANDAS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=nord)  
 
-![Profile views](https://gpvc.arturio.dev/mjaroszewski1979&theme=nord)  
+![Profile views](https://gpvc.arturio.dev/mjaroszewski1979)  
