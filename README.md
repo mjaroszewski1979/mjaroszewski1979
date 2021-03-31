@@ -15,7 +15,7 @@ I am hard working professional with passion for new technologies and financial m
 
 ### My Work
 
-![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/marketbias.gif)
+![caption](https://github.com/mjaroszewski1979/market_bias/blob/main/marketbias.gif)
 
 
 
