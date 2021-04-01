@@ -11,9 +11,10 @@ I am hard working professional with passion for new technologies and financial m
   - 🌱 I’m currently learning Generators and Iterators Protocol in Python 
   - 👯 I’m looking to collaborate on Creating Trading Strategy using TA Library 
   - 💬 Ask me about Python and Flask Fundamentals 
-  - 📫 How to reach me: [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/), [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
   - 😄 Pronouns: Muttley from 'Catch the Pigeon' 
   - ⚡ Fun fact: I Have Stopped Smoking to Stay Focused on Programming  
+
+  ### How to Reach Me: [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/), [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
 
   ### My Work
 
