@@ -1,6 +1,6 @@
 
 
-## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png"> &nbsp; Hi There, My Name is Maciej Jaroszewski
+## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/mj.png"> &nbsp; Hi There, My Name is Maciej Jaroszewski
 ### Self - Taught &nbsp; Pythonista
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner.png)
 
