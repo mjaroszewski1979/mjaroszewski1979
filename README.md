@@ -1,7 +1,7 @@
 
 
-### Hi there 👋, my name is Maciej Jaroszewski
-#### Self - Taught Pythonista
+## Hi There 👋, My Name is Maciej Jaroszewski
+### Self - Taught  Pythonista
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner.png)
 
 I am hard working professional with passion for new technologies and financial markets. 
