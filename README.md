@@ -17,7 +17,7 @@ I am hard working professional with passion for new technologies and financial m
   ### How to Reach Me 
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
 
-  ## My Work
+  ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
 
   ![caption](https://github.com/mjaroszewski1979/market_bias/blob/main/marketbias.gif) 
 
