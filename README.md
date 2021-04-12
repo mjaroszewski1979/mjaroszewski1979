@@ -40,6 +40,9 @@ I am hard working professional with passion for new technologies and financial m
   ---
   
   ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/download.png">](https://www.mjaroszewski.icu/resume.html) &nbsp; My Resume
+  --
+  
+  
 
 
 
