@@ -40,12 +40,9 @@ I am hard working professional with passion for new technologies and financial m
   ---
   
   ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/download.png">](https://www.mjaroszewski.icu/resume.html) &nbsp; My Resume
-  
-  
-  
-  
-  
-  
+    
+    
+    
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=mjaroszewski1979&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
