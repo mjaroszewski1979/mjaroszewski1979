@@ -44,6 +44,8 @@ I am hard working professional with passion for new technologies and financial m
   
   
   
+  
+  
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=mjaroszewski1979&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
