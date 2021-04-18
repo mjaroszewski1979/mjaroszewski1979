@@ -17,7 +17,7 @@ I am hard working professional with passion for new technologies and financial m
 
   ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
   
-   ![caption](https://github.com/mjaroszewski1979/johnsmith/blob/main/trend_follower.gif)
+   ![caption](https://github.com/mjaroszewski1979/tf_pro/blob/main/trend_follower.gif)
 
   
   Live | Code | Technologies
