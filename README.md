@@ -12,7 +12,6 @@ I am hard working professional with passion for new technologies and financial m
   - 👯 I’m looking to collaborate on Creating Trading Strategy using TA Library 
   - 💬 Ask me about Python and Flask Fundamentals 
   - 😄 Pronouns: Muttley from 'Catch the Pigeon' 
-  - ⚡ Fun fact: I Have Stopped Smoking to Stay Focused on Programming  
 
   ## &nbsp; How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy1.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
 
