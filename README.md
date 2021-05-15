@@ -17,6 +17,13 @@ I am hard working professional with passion for new technologies and financial m
 
   ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
   
+   ![caption](https://github.com/mjaroszewski1979/stooq-api/blob/main/stooq_api.gif)
+
+  
+  Live | Code | Technologies
+  ---- | ---- | ------------
+  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/deta2.png">](https://8xl3m1.deta.dev/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/stooq-api) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fastapi1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/panda.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/numpy.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/docker.png">  
+  
    ![caption](https://github.com/mjaroszewski1979/tf_pro/blob/main/trend_follower.gif)
 
   
