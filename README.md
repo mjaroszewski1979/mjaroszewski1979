@@ -38,7 +38,7 @@ I am hard working professional with passion for new technologies and financial m
   ---- | ---- | ------------
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/heroku1.png">](https://dogs-of-dow.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/dogs_of_dow) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fastapi1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/panda.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/numpy.png">  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jinja.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/uvicorn1.png">  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html1.png">  <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css1.png"> 
   
-  ![caption](https://github.com/mjaroszewski1979/stooq-api/blob/main/stooq_api.gif)
+  ![caption](https://github.com/mjaroszewski1979/stooq-api/blob/main/stooq_fastapi.gif)
 
   
   Live | Code | Docker | Technologies
