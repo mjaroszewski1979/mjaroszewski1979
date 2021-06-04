@@ -17,6 +17,8 @@ I am hard working professional with passion for new technologies and financial m
 
   ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
   
+  ### Static Websites
+  
    ![caption](https://github.com/mjaroszewski1979/delta-real-estate/blob/main/delta-real-estate.gif)
 
   Live | Code | Technologies
