@@ -7,8 +7,8 @@
 I am hard working professional with passion for new technologies and financial markets. 
 
 
-  - 🔭 I’m currently working on  User Accounts & Authentication in Flask 
-  - 🌱 I’m currently learning JavaScript 
+  - 🔭 I’m working on User Accounts & Authentication in Flask 
+  - 🌱 I’m learning JavaScript 
   - 👯 I’m looking to collaborate on Creating Trading Strategy using TA Library 
   - 💬 Ask me about Python and Flask Fundamentals 
   - 😄 Pronouns: Muttley from 'Catch the Pigeon' 
