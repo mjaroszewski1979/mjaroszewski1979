@@ -17,7 +17,7 @@ I am hard working professional with passion for new technologies and financial m
 
   ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
   
-  ### Currently Favourite
+  ### Favourite Projects
   
    ![caption](https://github.com/mjaroszewski1979/3-Dining/blob/main/3_dining.gif)
   
