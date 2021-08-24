@@ -17,7 +17,7 @@ I am hard working professional with passion for new technologies and financial m
 
   ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
   
-  ### Favourite Projects
+## Favourite Projects
   
    ![caption](https://github.com/mjaroszewski1979/3d_dining/blob/main/3_dining.gif)
   
@@ -71,7 +71,7 @@ I am hard working professional with passion for new technologies and financial m
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/heroku1.png">](https://mjaroszewski-blog.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/MJaroszewski_Blog) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/docker.png">](https://hub.docker.com/r/maciej1245/mj_blog_fastapi) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fastapi1.png">  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/uvicorn1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/sqlalchemy.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bcrypt.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bootstrap.png">
   
   
- ## Flask Applications
+## Flask Applications
   
   ![caption](https://github.com/mjaroszewski1979/flask_udemy/blob/main/johnsmith.gif)
 
@@ -81,7 +81,7 @@ I am hard working professional with passion for new technologies and financial m
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/heroku1.png">](https://flask-smtplib.herokuapp.com/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/flask_udemy) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/docker.png">](https://hub.docker.com/r/maciej1245/john_smith) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/flask.png">  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jinja.png">&nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html1.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css1.png"> 
  
   
-### Static Websites
+## Static Websites
   
    ![caption](https://github.com/mjaroszewski1979/delta-real-estate/blob/main/delta-real-estate.gif)
 
