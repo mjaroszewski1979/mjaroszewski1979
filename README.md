@@ -7,12 +7,6 @@
 I am hard working professional with passion for new technologies and financial markets. 
 
 
-  - 🔭 I’m working on User Accounts & Authentication in Flask 
-  - 🌱 I’m learning JavaScript 
-  - 👯 I’m looking to collaborate on Creating Trading Strategy using TA Library 
-  - 💬 Ask me about Python and Flask Fundamentals 
-  - 😄 Pronouns: Muttley from 'Catch the Pigeon' 
-
   ## &nbsp; How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy1.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
 
   ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/brain.png"> &nbsp; My Work
