@@ -56,7 +56,7 @@ While my focus is responsive websites powered by Django, I also do data manipula
   
 ## FastAPI Applications
  
-   ![caption](https://github.com/mjaroszewski1979/millionaires_club_v1/blob/main/millionaires_club1.gif)
+   ![caption](https://github.com/mjaroszewski1979/millionaires_club_v1/blob/main/mclub_mockup.png)
 
   
   Live | Code | Docker | Technologies
