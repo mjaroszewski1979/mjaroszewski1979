@@ -84,7 +84,7 @@ While my focus is responsive websites powered by Django, I also do data manipula
   
 ## Static Websites
 
- ![caption](https://github.com/mjaroszewski1979/mjaroszewski_portfolio/blob/main/mj_portfolio_v1.gif)
+ ![caption](https://github.com/mjaroszewski1979/mjaroszewski_portfolio/blob/main/mjportfolio_mockup.png)
 
   Live | Code | Technologies
   ---- | ---- | ------------
