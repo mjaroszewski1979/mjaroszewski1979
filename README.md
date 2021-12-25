@@ -114,7 +114,7 @@ While my focus is responsive websites powered by Django, I also do data manipula
   
   ---
   
-  ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pdf_20x20.png">](https://www.mjaroszewski.icu/resume.html) &nbsp; My Resume
+  ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pdf_20x20.png">](https://www.mjaroszewski.site/resume.html) &nbsp; My Resume
     
     
     
