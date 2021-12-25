@@ -96,7 +96,7 @@ While my focus is responsive websites powered by Django, I also do data manipula
   ---- | ---- | ------------
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://delta-real-estate.netlify.app) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/delta-real-estate) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jquery_g.png">
   
-   ![caption](https://github.com/mjaroszewski1979/nature-restaurant/blob/main/nature-restaurant.gif)
+   ![caption](https://github.com/mjaroszewski1979/nature-restaurant/blob/main/nature_mockup.png)
 
   Live | Code | Technologies
   ---- | ---- | ------------
