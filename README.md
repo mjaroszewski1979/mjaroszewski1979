@@ -119,17 +119,17 @@ While my focus is responsive websites powered by Django, I also do data manipula
     
     
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mjaroszewski1979&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mjaroszewski1979&theme=graywhite)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaroszewski1979&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaroszewski1979&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaroszewski1979&theme=nord&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaroszewski1979&theme=graywhite&show_icons=true)
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mjaroszewski1979&theme=nord)  
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mjaroszewski1979&theme=graywhite)  
 
   ![GitHub metrics](https://metrics.lecoq.io/mjaroszewski1979)  
 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=nord)  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=graywhite)  
 
   ![Profile views](https://gpvc.arturio.dev/mjaroszewski1979)  
 
