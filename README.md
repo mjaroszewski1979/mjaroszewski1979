@@ -14,7 +14,7 @@ While my focus is responsive websites powered by Django, I also do data manipula
   
 ### Favourite Projects
 
-![caption](https://github.com/mjaroszewski1979/django-eshop-v2/blob/main/urban_style.gif)
+![caption](https://github.com/mjaroszewski1979/django-eshop-v2/blob/main/urban_mockup.png)
   
   Live | Code | Docker | Technologies
   ---- | ---- | ------ | ------------
