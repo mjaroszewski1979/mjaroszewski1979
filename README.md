@@ -7,7 +7,7 @@
 I am hard working professional with passion for new technologies and financial markets. 
 
 
-  ## &nbsp; How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy1.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
+  ## &nbsp; How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy_20x20.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
 
 ## My Work
   
