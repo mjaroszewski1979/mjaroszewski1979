@@ -125,8 +125,6 @@ While my focus is responsive websites powered by Django, I also do data manipula
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaroszewski1979&theme=graywhite&show_icons=true)
 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mjaroszewski1979&theme=vue)  
-
   ![GitHub metrics](https://metrics.lecoq.io/mjaroszewski1979)  
 
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mjaroszewski1979&theme=graywhite)  
