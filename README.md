@@ -2,7 +2,7 @@
 
 ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/mj_20x20.png"> &nbsp; Hi There, My Name is Maciej Jaroszewski
 
-![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner_g.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner_g.png)
 
 I am hard working professional with passion for new technologies and financial markets. 
 
