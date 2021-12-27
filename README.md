@@ -4,7 +4,7 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/banner_800x400.png)
 
-I am passionate Python developer. 
+#### I am passionate Python developer. 
 While my focus is responsive websites powered by Django, I also do data manipulation with Pandas, as well as containerization using Docker. All projects are a problem to be solved, whether it’s to do with design or code — only the tools change.
 
 
