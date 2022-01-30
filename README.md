@@ -14,7 +14,7 @@ While my focus is responsive websites powered by Django, I also do data manipula
   
 ### Django
 
-![caption](https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/dg_mockup.png)
+![caption](https://github.com/mjaroszewski1979/quant-catalog/blob/main/mockup.png)
   
   Live | Code | Docker | Technologies
   ---- | ---- | ------ | ------------
