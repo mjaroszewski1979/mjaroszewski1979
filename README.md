@@ -8,7 +8,7 @@
 While my focus is responsive websites powered by Django, I also do data manipulation with Pandas, as well as containerization using Docker. All projects are a problem to be solved, whether it’s to do with design or code — only the tools change.
 
 
-## How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/udemy_20x20.png">](https://www.udemy.com/user/maciej-jaroszewski-3/) 
+## How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) 
 
 ## My Work
   
