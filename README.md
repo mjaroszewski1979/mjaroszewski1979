@@ -20,7 +20,7 @@ As a passionate software developer, my main focus lies in developing responsive 
   
 ### Deployment Examples
 
----------------------------------------------------------------------------
+-----------------------
 
   ![caption](https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/dg_mockup.png)
   
