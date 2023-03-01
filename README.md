@@ -10,8 +10,6 @@ As a passionate software developer, my main focus lies in developing responsive 
 
 ## How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) 
 
-## My Work
-
 ### Portfolio Website
 
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski_portfolio/blob/main/mjportfolio_mockup.png)
