@@ -8,9 +8,9 @@
 As a passionate software developer, my main focus lies in developing responsive websites using Django. However, my skillset doesn't just end there. I'm also well-versed in data manipulation with Pandas and containerization using Docker. I approach each project as a unique problem to be solved, whether it involves design or code, and I adapt accordingly to provide the best solution. Aside from my technical skills, I'm a tech-savvy enthusiast who enjoys exploring various areas within the industry. For instance, I like experimenting with different SEO strategies in my newly created blog. In doing so, I also attempt to automate various affiliate marketing processes, such as email funneling, to ensure a smoother workflow. In addition to my interest in web development and marketing, I also find financial markets fascinating. I use my observations of these markets to incorporate them into systematic, quantitative trading strategies. This combination of skills and interests allows me to approach each project with a unique perspective. More recently, I've been exploring the vast possibilities created by emerging AI tools. For example, ChatGPT can be used to create engaging content, and MidJourney has mind-blowing art creation capabilities. It's exciting to see how technology is constantly evolving, and I'm always eager to learn and try out new tools and techniques.
 
 
-## How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) 
+### How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) 
 
-### Portfolio Website
+## Portfolio Website
 
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski_portfolio/blob/main/mjportfolio_mockup.png)
 
@@ -18,7 +18,7 @@ As a passionate software developer, my main focus lies in developing responsive 
   ---- | ---- | ------------
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://mjaroszewski.website/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/mjaroszewski_portfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png" > &nbsp; &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/htmlup.png" >
   
-### Deployment Examples
+## Deployment Examples
 
 
   ![caption](https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/dg_mockup.png)
@@ -73,7 +73,7 @@ As a passionate software developer, my main focus lies in developing responsive 
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/workers-postgres) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/django_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png">  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jquery_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bulma_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/ajax.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/elephantsql.png">
   
   
-### Django
+## Django
 
 ![caption](https://github.com/mjaroszewski1979/django_car/blob/main/mjcars_mockup.png)
   
