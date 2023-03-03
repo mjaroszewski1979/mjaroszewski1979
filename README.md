@@ -4,7 +4,7 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/futuristic_banner.png)
 
-#### I Am Tech-Savvy Python Enthusiast. 
+#### ***I Am Tech-Savvy Python Enthusiast.*** 
 As a passionate software developer, my main focus lies in developing responsive websites using **Django**. However, my skillset doesn't just end there. I'm also well-versed in data manipulation with **Pandas** and containerization using **Docker**. I approach each project as a unique problem to be solved, whether it involves design or code, and I adapt accordingly to provide the best solution. 
 
 Aside from my technical skills, I'm a tech-savvy enthusiast who enjoys exploring various areas within the industry. For instance, I like experimenting with different **SEO** strategies in my newly created blog. In doing so, I also attempt to automate various affiliate marketing processes, such as email funneling, to ensure a smoother workflow. In addition to my interest in web development and marketing, I also find financial markets fascinating. I use my observations of these markets to incorporate them into systematic, **quantitative trading strategies**. 
