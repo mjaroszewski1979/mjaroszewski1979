@@ -2,7 +2,7 @@
 
 ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; Hi There, My Name is Maciej Jaroszewski
 
-![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/futuristic_banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/header01.png)
 
 #### ***I Am Tech-Savvy Python Enthusiast.*** 
 As a passionate software developer, my main focus lies in developing responsive websites using **Django**. However, my skillset doesn't just end there. I'm also well-versed in data manipulation with **Pandas** and containerization using **Docker**. I approach each project as a unique problem to be solved, whether it involves design or code, and I adapt accordingly to provide the best solution. 
