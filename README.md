@@ -12,7 +12,7 @@ Aside from my technical skills, I'm a tech-savvy enthusiast who enjoys exploring
 This combination of skills and interests allows me to approach each project with a unique perspective. More recently, I've been exploring the vast possibilities created by emerging AI tools. For example, **ChatGPT** can be used to create engaging content, and **MidJourney** has mind-blowing art creation capabilities. It's exciting to see how technology is constantly evolving, and I'm always eager to learn and try out new tools and techniques.
 
 
-### How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) 
+### How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/instagram_icon.png">]([https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/](https://www.instagram.com/naturalife.quest/)) 
 
 ## Portfolio Website
 
