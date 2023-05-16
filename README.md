@@ -59,9 +59,9 @@ As a passionate software developer, my main focus lies in developing responsive 
 
 ![caption](https://github.com/mjaroszewski1979/global-macro-vercel/blob/main/ai_detector_mockup.png) 
 
-  Live | Code | Technologies
-  ---- | ---- | ------------
-  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/vercel.png">](https://global-macro-vercel.vercel.app/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/global-macro-vercel) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/django_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bulma_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/huggingface_logo.png">
+  Live | Code | Docs | Technologies
+  ---- | ---- | ---- | ------------
+  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/vercel.png">](https://global-macro-vercel.vercel.app/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/global-macro-vercel) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/sphinx.png">](https://ai-detector-docs.netlify.app/) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/django_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bulma_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/huggingface_logo.png">
   
   
 ## Django
