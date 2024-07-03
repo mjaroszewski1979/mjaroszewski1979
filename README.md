@@ -4,10 +4,8 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_banner-01.png)
 
-#### ***I Am Tech-Savvy Python Enthusiast.*** 
-As a passionate software developer, my main focus lies in developing responsive websites using **Django**. However, my skillset doesn't just end there. I'm also well-versed in data manipulation with **Pandas** and containerization using **Docker**. I approach each project as a unique problem to be solved, whether it involves design or code, and I adapt accordingly to provide the best solution. 
-
-### How to Reach Me &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/fb_20x20.png">](https://www.facebook.com/profile.php?id=100058399907662) &nbsp; [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/linkedin1.png">](https://www.linkedin.com/in/maciej-jaroszewski-0aa0451bb/) 
+#### ***Analytical, Detail-Oriented and Clear Communicator | Always Seeking to Learn New Technologies*** 
+I am an aspiring IT professional with a strong interest in quality assurance, software development, and data analysis. My background in Python programming and software testing, combined with my ISTQB certification, equips me with the skills necessary to contribute effectively to any tech team.
 
 ## Portfolio Website
 
