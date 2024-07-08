@@ -53,7 +53,7 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
 
   ---
   
-  ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pdf_20x20.png">](https://www.mjaroszewski.site/resume.html) &nbsp; My Resume
+  ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pdf_20x20.png">](https://mjaroszewski.site/Maciej_Jaroszewski.pdf) &nbsp; My Resume
     
     
     
