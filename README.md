@@ -2,7 +2,7 @@
 
 ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; Hi There, My Name is Maciej Jaroszewski
 
-![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_banner-01.png)
+![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/robot_banner.jpg)
 
 #### ***Analytical, Detail-Oriented and Clear Communicator | Always Seeking to Learn New Technologies*** 
 I am an aspiring IT professional with a strong interest in quality assurance, software development, and data analysis. My background in Python programming and software testing, combined with my ISTQB certification, equips me with the skills necessary to contribute effectively to any tech team.
