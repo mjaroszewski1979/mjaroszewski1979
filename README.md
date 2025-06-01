@@ -20,7 +20,7 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
   
   Code | Technologies
   ---- | ------------
-[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/qi_internship_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/selenium.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/intellij_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/maven_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/testng_g.png">
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/quality_island_mockup.png">](https://github.com/mjaroszewski1979/qi_internship_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/selenium.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/intellij_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/maven_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/testng_g.png">
 
 
   ![caption](https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/dg_mockup.png)
