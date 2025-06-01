@@ -16,11 +16,11 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
   [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://mjaroszewski.website/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/mjaroszewski_portfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png" > &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/midjourney_g.png" > 
 ## Most Recent Projects
 
-  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/qi_intern_mockup.jpg)
+  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/quality_island_mockup.png)
   
   Code | Technologies
   ---- | ------------
-[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/quality_island_mockup.png">](https://github.com/mjaroszewski1979/qi_internship_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/selenium.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/intellij_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/maven_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/testng_g.png">
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/qi_internship_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/selenium.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/intellij_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/maven_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/testng_g.png">
 
 
   ![caption](https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/dg_mockup.png)
