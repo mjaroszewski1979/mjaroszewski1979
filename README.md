@@ -65,10 +65,6 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
   ## [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/pdf_20x20.png">](https://mjaroszewski.site/Maciej_Jaroszewski.pdf) &nbsp; My Resume
     
     
-    
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mjaroszewski1979&theme=graywhite)](https://github.com/ryo-ma/github-profile-trophy)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaroszewski1979&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaroszewski1979&theme=graywhite&show_icons=true)
