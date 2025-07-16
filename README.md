@@ -17,11 +17,12 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
 
 &nbsp;
 
-## In Progress ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/in_progress_icon.jpg) 
+## In Progress 
+![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/in_progress_icon.jpg) 
 
-  Live | Code | Technologies
-  ---- | ---- | ------------
-  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://mjaroszewski.website/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/mjaroszewski_portfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png" > &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/midjourney_g.png" > 
+ Code | Technologies
+ ---- | ------------
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/presta_shop_tests) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/playwright_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/vscode_g.png">
 
 ## Most Recent Projects
 
