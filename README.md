@@ -17,7 +17,7 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
 
 &nbsp;
 
- ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/in_progress_icon.jpg) ## In Progress
+## In Progress ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/in_progress_icon.jpg) 
 
   Live | Code | Technologies
   ---- | ---- | ------------
