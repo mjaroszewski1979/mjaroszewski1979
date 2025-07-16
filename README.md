@@ -23,6 +23,8 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
  ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/presta_shop_tests) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/playwright_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/vscode_g.png">
 
+&nbsp;
+
 ## Most Recent Projects
 
   ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/quality_island_g.png)
