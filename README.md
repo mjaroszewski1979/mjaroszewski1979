@@ -19,6 +19,8 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
 
 ## In Progress :building_construction:
 
+ ![caption](https://github.com/mjaroszewski1979/presta_shop_tests/blob/main/play_py_mockup.jpg)
+
  Code | Technologies
  ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/presta_shop_tests) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/playwright_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/vscode_g.png">
