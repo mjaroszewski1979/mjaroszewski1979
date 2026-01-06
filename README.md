@@ -13,7 +13,7 @@ I am an aspiring IT professional with a strong interest in quality assurance, so
 
   Live | Code | Technologies
   ---- | ---- | ------------
-  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://mjaroszewski.website/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/mjaroszewski_portfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png" > &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/midjourney_g.png" > 
+  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://mjaroszewski.online/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/mjaroszewski_portfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png" > &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/midjourney_g.png" > 
 
 &nbsp;
 
