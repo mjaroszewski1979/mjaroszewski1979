@@ -12,7 +12,7 @@ I am a software tester delivering projects for the banking industry. I specializ
 
 ## Most Recent Projects
 
- ![caption](https://github.com/mjaroszewski1979/presta_shop_tests/blob/main/play_py_mockup.jpg)
+ ![caption](https://github.com/mjaroszewski1979/blob/main/rag_qa_mockup.jpg)
 
  Code | Technologies
  ---- | ------------
