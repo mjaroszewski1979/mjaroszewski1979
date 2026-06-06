@@ -5,7 +5,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/robot_banner.jpg)
 
 #### ***Analytical, Detail-Oriented and Clear Communicator | Always Seeking to Learn New Technologies*** 
-I am an aspiring IT professional with a strong interest in quality assurance, software development, and data analysis. My background in Python programming and software testing, combined with my ISTQB certification, equips me with the skills necessary to contribute effectively to any tech team.
+I am a software tester delivering projects for the banking industry. I specialize in designing and implementing performance tests, web applications test automation, and manual testing. I have strong theoretical and practical knowledge of programming and efficiently use AI tools as effective support in the coding process. 
 
 ## Portfolio Website
 
