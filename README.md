@@ -7,14 +7,6 @@
 #### ***Analytical, Detail-Oriented and Clear Communicator | Always Seeking to Learn New Technologies*** 
 I am a software tester delivering projects for the banking industry. I specialize in designing and implementing performance tests, web applications test automation, and manual testing. I have strong theoretical and practical knowledge of programming and efficiently use AI tools as effective support in the coding process. 
 
-## Portfolio Website
-
- ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/mjaroszewski-website-mockup.png)
-
-  Live | Code | Technologies
-  ---- | ---- | ------------
-  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://mjaroszewski.online/) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/mjaroszewski_portfolio) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png" > &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/midjourney_g.png" > 
-
 &nbsp;
 
 
