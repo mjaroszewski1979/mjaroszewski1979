@@ -18,7 +18,7 @@ I am a software tester delivering projects for the banking industry. I specializ
 
  Code | Technologies
  ---- | ------------
-[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/presta_shop_tests) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/notebook_lm.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gemini.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/google_sheets.jpg">
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/rag_qa_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/notebook_lm.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gemini.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/google_sheets.jpg">
 
   ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/quality_island_g.png)
   
