@@ -20,11 +20,15 @@ I am a software tester delivering projects for the banking industry. I specializ
  ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/rag_qa_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/notebook_lm.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gemini.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/google_sheets.jpg">
 
+&nbsp;
+
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gatling_load_mockup.jpg)
 
  Code | Technologies
  ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/ml-performance-analysis) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gatling.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gcp.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jupyter_notebook.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png">
+
+&nbsp;
 
   ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/quality_island_g.png)
   
@@ -32,17 +36,23 @@ I am a software tester delivering projects for the banking industry. I specializ
   ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/qi_internship_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/selenium.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/intellij_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/maven_g.png"> <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/testng_g.png">
 
+&nbsp;
+
 ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/play_type_mockup.png)
   
   Code | Technologies
   ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/playwright-sel-shop) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/playwright_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/typescript_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/vscode_g.png"> 
 
+&nbsp;
+
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/book_api_mockup.png)
   
   Code | Technologies
   ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/postman_book_store) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/postman_g.png"> 
+
+&nbsp;
 
 
   ![caption](https://github.com/mjaroszewski1979/golden-cross-v1/blob/main/dg_mockup.png)
