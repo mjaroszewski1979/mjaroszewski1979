@@ -12,6 +12,8 @@ I am a software tester delivering projects for the banking industry. I specializ
 
 ## Most Recent Projects
 
+&nbsp;
+
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/rag_qa_mockup_img.jpg)
 
  Code | Technologies
