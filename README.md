@@ -14,6 +14,14 @@ I am a software tester delivering projects for the banking industry. I specializ
 
 &nbsp;
 
+ ![caption](https://github.com/mjaroszewski1979/chatbot-security-testing/blob/main/llm-jail-mockup.jpg)
+
+ Code | Technologies
+ ---- | ------------
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/chatbot-security-testing) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/ai_studio_logo.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gemini.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/google_sheets.jpg">
+
+&nbsp;
+
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/rag_qa_mockup_img.jpg)
 
  Code | Technologies
