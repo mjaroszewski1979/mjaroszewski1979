@@ -22,19 +22,19 @@ I am a software tester delivering projects for the banking industry. I specializ
 
 &nbsp;
 
- ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/rag_qa_mockup_img.jpg)
-
- Code | Technologies
- ---- | ------------
-[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/rag_qa_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/notebook_lm.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gemini.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/google_sheets.jpg">
-
-&nbsp;
-
  ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gatling_load_mockup.jpg)
 
  Code | Technologies
  ---- | ------------
 [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/ml-performance-analysis) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gatling.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/java_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gcp.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jupyter_notebook.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/python_g.png">
+
+&nbsp;
+
+ ![caption](https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/rag_qa_mockup_img.jpg)
+
+ Code | Technologies
+ ---- | ------------
+[<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/rag_qa_project) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/notebook_lm.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/gemini.jpg"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/google_sheets.jpg">
 
 &nbsp;
 
